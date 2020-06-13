@@ -26,9 +26,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   she may show you.  Deep down Alexa has a heart of gold and her charming and
   sweet personality will surely win over your heart <3 <3
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://skylardark5.github.io/alexablancoh/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alexablancoh
-github_username:  skylardark5
+instagram_username: alexas.gram
 
 # Build settings
 theme: minima
